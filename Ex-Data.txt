@@ -1,0 +1,27 @@
+# This is training data, should contain class to measure accuracy
+buying,maint,door,persons,lug_boot,safety,class
+vhigh,vhigh,2,2,small,low,unacc
+vhigh,vhigh,2,2,small,med,unacc
+vhigh,vhigh,2,2,small,high,unacc
+vhigh,vhigh,2,2,med,low,unacc
+vhigh,vhigh,2,2,med,med,unacc
+vhigh,vhigh,2,2,med,high,unacc
+vhigh,vhigh,2,2,big,low,unacc
+vhigh,vhigh,2,2,big,med,unacc
+vhigh,vhigh,2,2,big,high,unacc
+vhigh,vhigh,2,4,small,low,unacc
+vhigh,vhigh,2,4,small,med,unacc
+vhigh,vhigh,2,4,small,high,unacc
+vhigh,vhigh,2,4,med,low,unacc
+vhigh,vhigh,2,4,med,med,unacc
+
+
+
+# This is testing data
+buying,maint,door,persons,lug_boot,safety
+vhigh,high,4,more,small,low
+low,vhigh,2,2,small,high
+low,vhigh,2,2,med,low
+low,vhigh,2,2,med,med
+low,vhigh,2,2,med,high
+low,vhigh,2,2,big,low
